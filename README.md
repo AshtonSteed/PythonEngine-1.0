@@ -5,3 +5,4 @@ The meat of this engine was built by following Eddie Sharick's python chess engi
 Other than that, the sub-file chess contains images of the pieces, and the computer can play at a depth specified by key press, and only operates with a basic eval and alpha beta search.
 
 Its rudimentary, but it was a fun project. 
+__init__ and main are both useless lol, just there because I forgot to remove them
